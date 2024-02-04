@@ -11,7 +11,7 @@ Generate unique and visually appealing CSS gradient blobs effortlessly using thi
 
 **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/css-gradient-generator-nextjs.git
+   git clone https://github.com/CodeWithMilap/gradient-blob-generator.git
    cd css-gradient-generator-nextjs
 ```
 
